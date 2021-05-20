@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+}
+.app-header{
+  background: blue;
+  color: white;
+  position: fixed;
+  width: 100%;
+  text-align: left;
+  display: flex;
+}
+.App-header {
+  background-color:White;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+
+.App-link {
+  color: #61dafb;
+}
+form{
+   border: 2px solid black;
+   background: teal;
+   color: white;
+}
+
+button{
+  color: white;
+  background: blue;
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 40px 40px;
+}
+.card{
+  border:1px solid aquamarine;
+  margin: 10px;;
+}
+.container{
+  padding: 20px;
+  display: flex;
+}
+.thanks{
+  text-align: center;
+}
